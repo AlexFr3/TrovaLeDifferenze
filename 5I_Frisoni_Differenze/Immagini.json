@@ -1,0 +1,37 @@
+[
+   {
+      "DomandaImmagineID": 1,
+      "PercorsoOriginale": "/immagini/Alieni.png",
+      "PercorsoModificata": "/immagini/Alieni2.png",
+      "Width": 2480,
+      "Height": 1551
+   },
+   {
+      "DomandaImmagineID": 2,
+      "PercorsoOriginale": "/immagini/Aeroplano.png",
+      "PercorsoModificata": "/immagini/Aeroplano2.png",
+      "Width": 2480,
+      "Height": 1546
+   },
+   {
+      "DomandaImmagineID": 3,
+      "PercorsoOriginale": "/immagini/Calcio.png",
+      "PercorsoModificata": "/immagini/Calcio2.png",
+      "Width": 2480,
+      "Height": 1552
+   },
+   {
+      "DomandaImmagineID": 4,
+      "PercorsoOriginale": "/immagini/Foresta.png",
+      "PercorsoModificata": "/immagini/Foresta2.png",
+      "Width": 2480,
+      "Height": 1555
+   },
+   {
+      "DomandaImmagineID": 5,
+      "PercorsoOriginale": "/immagini/Orso.png",
+      "PercorsoModificata": "/immagini/Orso2.png",
+      "Width": 2480,
+      "Height": 1530
+   }
+]

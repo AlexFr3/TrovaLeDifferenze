@@ -1,0 +1,205 @@
+[
+   {
+      "idDifferenza": 1,
+      "X": 2175,
+      "Y": 235,
+      "Raggio": 100,
+      "DomandaImmagineId": 1
+   },
+   {
+      "idDifferenza": 2,
+      "X": 1480,
+      "Y": 810,
+      "Raggio": 125,
+      "DomandaImmagineId": 1
+   },
+   {
+      "idDifferenza": 3,
+      "X": 1360,
+      "Y": 210,
+      "Raggio": 100,
+      "DomandaImmagineId": 1
+   },
+   {
+      "idDifferenza": 4,
+      "X": 555,
+      "Y": 1330,
+      "Raggio": 200,
+      "DomandaImmagineId": 1
+   },
+   {
+      "idDifferenza": 5,
+      "X": 2050,
+      "Y": 1100,
+      "Raggio": 150,
+      "DomandaImmagineId": 1
+   },
+   {
+      "idDifferenza": 6,
+      "X": 1900,
+      "Y": 1200,
+      "Raggio": 200,
+      "DomandaImmagineId": 2
+   },
+   {
+      "idDifferenza": 7,
+      "X": 1525,
+      "Y": 950,
+      "Raggio": 100,
+      "DomandaImmagineId": 2
+   },
+   {
+      "idDifferenza": 8,
+      "X": 1850,
+      "Y": 460,
+      "Raggio": 200,
+      "DomandaImmagineId": 2
+   },
+   {
+      "idDifferenza": 9,
+      "X": 1215,
+      "Y": 700,
+      "Raggio": 100,
+      "DomandaImmagineId": 2
+   },
+   {
+      "idDifferenza": 10,
+      "X": 2182,
+      "Y": 810,
+      "Raggio": 150,
+      "DomandaImmagineId": 3
+   },
+   {
+      "idDifferenza": 11,
+      "X": 1860,
+      "Y": 1012,
+      "Raggio": 100,
+      "DomandaImmagineId": 3
+   },
+   {
+      "idDifferenza": 12,
+      "X": 1275,
+      "Y": 340,
+      "Raggio": 120,
+      "DomandaImmagineId": 3
+   },
+   {
+      "idDifferenza": 13,
+      "X": 940,
+      "Y": 950,
+      "Raggio": 120,
+      "DomandaImmagineId": 3
+   },
+   {
+      "idDifferenza": 14,
+      "X": 840,
+      "Y": 350,
+      "Raggio": 100,
+      "DomandaImmagineId": 3
+   },
+   {
+      "idDifferenza": 15,
+      "X": 2200,
+      "Y": 430,
+      "Raggio": 150,
+      "DomandaImmagineId": 4
+   },
+   {
+      "idDifferenza": 16,
+      "X": 2100,
+      "Y": 780,
+      "Raggio": 150,
+      "DomandaImmagineId": 4
+   },
+   {
+      "idDifferenza": 17,
+      "X": 170,
+      "Y": 1210,
+      "Raggio": 150,
+      "DomandaImmagineId": 4
+   },
+   {
+      "idDifferenza": 18,
+      "X": 1565,
+      "Y": 515,
+      "Raggio": 150,
+      "DomandaImmagineId": 4
+   },
+   {
+      "idDifferenza": 19,
+      "X": 1050,
+      "Y": 280,
+      "Raggio": 150,
+      "DomandaImmagineId": 4
+   },
+   {
+      "idDifferenza": 20,
+      "X": 980,
+      "Y": 790,
+      "Raggio": 100,
+      "DomandaImmagineId": 4
+   },
+   {
+      "idDifferenza": 21,
+      "X": 400,
+      "Y": 420,
+      "Raggio": 150,
+      "DomandaImmagineId": 4
+   },
+   {
+      "idDifferenza": 22,
+      "X": 1780,
+      "Y": 1240,
+      "Raggio": 150,
+      "DomandaImmagineId": 4
+   },
+   {
+      "idDifferenza": 23,
+      "X": 2080,
+      "Y": 160,
+      "Raggio": 100,
+      "DomandaImmagineId": 5
+   },
+   {
+      "idDifferenza": 24,
+      "X": 2150,
+      "Y": 1252,
+      "Raggio": 100,
+      "DomandaImmagineId": 5
+   },
+   {
+      "idDifferenza": 25,
+      "X": 2090,
+      "Y": 580,
+      "Raggio": 100,
+      "DomandaImmagineId": 5
+   },
+   {
+      "idDifferenza": 26,
+      "X": 1075,
+      "Y": 1130,
+      "Raggio": 100,
+      "DomandaImmagineId": 5
+   },
+   {
+      "idDifferenza": 27,
+      "X": 960,
+      "Y": 230,
+      "Raggio": 150,
+      "DomandaImmagineId": 5
+   },
+   {
+      "idDifferenza": 28,
+      "X": 710,
+      "Y": 645,
+      "Raggio": 100,
+      "DomandaImmagineId": 5
+   },
+   {
+      "idDifferenza": 29,
+      "X": 650,
+      "Y": 280,
+      "Raggio": 100,
+      "DomandaImmagineId": 5
+   }
+]
